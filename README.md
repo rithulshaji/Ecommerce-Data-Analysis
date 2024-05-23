@@ -50,3 +50,7 @@ I used SQL to answer the following business questions:
 
 ## Summary
 This project demonstrates how to clean and analyze a retail orders dataset using Python and SQL. The Python code handles data cleaning and transformation, while the SQL code performs various analytical queries to gain insights into sales performance, product popularity, and growth trends.
+
+## Acknowledgments
+The dataset used in this project is provided by Ankit Bansal on Kaggle.
+Thanks to Ankit Bansal for the dataset and guidance.
