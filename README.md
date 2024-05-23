@@ -11,7 +11,7 @@ The dataset can be found on Kaggle: [Retail Orders Dataset](https://www.kaggle.c
 | Column Name   | Description                                           | Data Type  |
 |---------------|-------------------------------------------------------|------------|
 | order_id      | Unique identifier for each order                      | Integer    |
-| order_date    | The date on which the order was placed                | Date       |
+| order_date    | The date on which the order was placed                | String     |
 | ship_mode     | The mode of shipping used for the order               | String     |
 | segment       | The market segment to which the customer belongs      | String     |
 | country       | The country where the order was placed                | String     |
