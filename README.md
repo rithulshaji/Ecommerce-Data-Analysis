@@ -1,4 +1,4 @@
-# Retail-Orders-Data-Analysis
+# Ecommerce-Data-Analysis
 
 This project involves cleaning and analyzing a dataset of retail orders using Python and SQL. The dataset is sourced from Kaggle and contains information about orders, including order details, shipping modes, customer segments, locations, product categories, and financial metrics.
 
