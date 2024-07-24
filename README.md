@@ -4,7 +4,7 @@ This project involves cleaning and analyzing a dataset of retail orders using Py
 
 ## Dataset
 
-The dataset can be found on Kaggle: [Retail Orders Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
+The dataset can be found on Kaggle: [Ecommerce Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
 
 ### Columns and Descriptions
 
